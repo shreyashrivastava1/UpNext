@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#D32F2F</color>
+
+        <!-- Primary app colors -->
+        <color name="colorPrimary">#2196F3</color> <!-- Example blue color -->
+        <color name="colorPrimaryDark">#1976D2</color>
+
+        <!-- Accent color -->
+        <color name="colorAccent">#FF4081</color> <!-- Example pink accent color -->
+
+        <!-- Additional colors -->
+    <color name="colorAccentTeal">#00BCD4</color> <!-- Teal accent color -->
+    <color name="backgroundLight">#f0f4f8</color> <!-- Light background for input fields -->
+    <color name="textHint">#808080</color>
+
+</resources>

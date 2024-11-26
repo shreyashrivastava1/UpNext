@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400448439210",
+    "project_id": "upnext-ccda7",
+    "storage_bucket": "upnext-ccda7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400448439210:android:003769d5904b68573861d3",
+        "android_client_info": {
+          "package_name": "com.example.upnext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjlntU-kMZ6yKKdczIESFPD9_zLVijKgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
