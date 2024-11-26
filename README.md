@@ -29,7 +29,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/shreyashrivastava1/UpNext-News-App.git
+    git clone https://github.com/shreyashrivastava1/UpNext.git
     ```
 
 2. **Open the Project**: Launch the project in Android Studio.
